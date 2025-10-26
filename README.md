@@ -37,5 +37,5 @@ This is a **fully interactive dashboard** that visualizes programming language t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/phoenix-110-135/Dash.git
+cd Dash
