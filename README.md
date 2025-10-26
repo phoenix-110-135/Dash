@@ -1,6 +1,6 @@
 # 💻 Super Modern Programming Languages Dashboard
 
-![Dashboard Preview](https://raw.githubusercontent.com/yourusername/yourrepo/main/preview.png)
+![Dashboard Preview](dashboard.png)
 
 ## 🚀 Overview
 This is a **fully interactive dashboard** that visualizes programming language trends over time and provides detailed metadata about each language. It combines **popularity trends** (2004-2024) and **language database information** in a modern, stylish interface.
