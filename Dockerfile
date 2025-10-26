@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8050
 
 # Run the app
-CMD ["gunicorn", "-b", "0.0.0.0:8050", "app:server"]
+CMD ["gunicorn", "-b", "0.0.0.0:8050", "dashboard_super:server"]
