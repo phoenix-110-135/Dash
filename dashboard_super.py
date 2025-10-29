@@ -4,8 +4,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-df_trends = pd.read_csv("Most_Popular_Programming_Languages_2004-2024.csv")
-df_info = pd.read_csv("Programming_Language_Database.csv")
+df_trends = pd.read_csv("data/Most_Popular_Programming_Languages_2004-2024.csv")
+df_info = pd.read_csv("data/Programming_Language_Database.csv")
 
 trend_langs = [
     "Python Worldwide(%)", "JavaScript Worldwide(%)", "Java Worldwide(%)", "C# Worldwide(%)",
